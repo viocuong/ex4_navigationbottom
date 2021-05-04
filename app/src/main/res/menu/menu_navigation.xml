@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/imessage"
+        android:icon="@drawable/ic_baseline_message_24"
+        android:title="Tin nhắn" />
+    <item
+        android:id="@+id/inotify"
+        android:icon="@drawable/ic_baseline_circle_notifications_24"
+        android:title="Thông báo" />
+    <item
+        android:id="@+id/igroup"
+        android:icon="@drawable/ic_baseline_group_24"
+        android:title="Nhóm" />
+
+    <item android:id="@+id/istatus"
+        android:title="Nhật ký"
+        android:icon="@drawable/ic_baseline_access_time_24"
+        />
+    <item
+        android:id="@+id/ipersonal"
+        android:icon="@drawable/ic_baseline_person_pin_24"
+        android:title="Cá nhân" />
+</menu>
